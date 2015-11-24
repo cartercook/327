@@ -1,0 +1,5 @@
+'login' to begin a session.
+Would you like to log in to a sales or admin session?
+There was an input error with the login function, please try again.
+Unrecognised command.
+There was an input error with the logout function, please try again.

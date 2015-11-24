@@ -1,0 +1,8 @@
+login
+admin
+delete
+Good Name
+return
+Good Name
+1
+logout

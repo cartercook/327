@@ -1,0 +1,4 @@
+'login' to begin a session.
+Would you like to log in to a sales or admin session?
+Current Events:
+

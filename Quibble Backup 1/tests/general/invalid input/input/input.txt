@@ -1,0 +1,4 @@
+login
+logan
+!@#$%^&*()
+logout

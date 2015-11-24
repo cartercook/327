@@ -1,0 +1,5 @@
+login
+admin
+add
+Not an event
+logout

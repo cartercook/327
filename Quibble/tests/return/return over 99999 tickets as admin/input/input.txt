@@ -1,0 +1,6 @@
+login
+admin
+return
+Good Name
+100000
+logout

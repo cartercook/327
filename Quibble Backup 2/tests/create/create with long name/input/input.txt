@@ -1,0 +1,5 @@
+login
+admin
+create
+Name that is too long
+logout

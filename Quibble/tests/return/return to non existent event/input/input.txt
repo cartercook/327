@@ -1,0 +1,4 @@
+login
+sales
+Not an event
+logout

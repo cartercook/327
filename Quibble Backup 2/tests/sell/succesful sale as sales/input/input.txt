@@ -1,0 +1,6 @@
+login
+sales
+sell
+Good Name
+1
+logout

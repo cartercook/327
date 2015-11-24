@@ -1,0 +1,7 @@
+'login' to begin a session.
+Would you like to log in to a sales or admin session?
+Current Events:
+
+What is the name of the event you wish to return tickets to?
+How many tickets do you want to return?
+There was an input error with the return function, please try again.

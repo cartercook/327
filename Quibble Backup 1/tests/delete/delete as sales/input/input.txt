@@ -1,0 +1,4 @@
+login
+sales
+delete
+logout

@@ -1,0 +1,8 @@
+'login' to begin a session.
+Would you like to log in to a sales or admin session?
+Current Events:
+
+What is the name of the event you wish to delete?
+What is the name of the event you wish to buy tickets to?
+There was an input error with the sell function, please try again.
+Unrecognised command.

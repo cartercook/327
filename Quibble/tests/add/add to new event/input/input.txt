@@ -1,0 +1,9 @@
+login
+admin
+create
+Good Name
+160101
+1
+add
+Good Name
+logout

@@ -1,0 +1,8 @@
+login
+admin
+delete
+Good Name
+sell
+Good Name
+1
+logout

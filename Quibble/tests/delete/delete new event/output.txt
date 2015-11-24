@@ -1,0 +1,9 @@
+'login' to begin a session.
+Would you like to log in to a sales or admin session?
+Current Events:
+
+What is the name of the event you wish to create?
+What date will the event occur? (YYMMDD)
+How many tickets would you like to have available for the event?
+What is the name of the event you wish to delete?
+There was an input error with the delete function, please try again.

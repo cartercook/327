@@ -1,0 +1,2 @@
+'login' to begin a session.
+There was an input error with the delete function, please try again.
